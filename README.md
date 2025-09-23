@@ -17,10 +17,15 @@ cd CancerRisk
 ```
 
 ## Folder Structure
-* ml_dataset/ – example datasets for model training and testing.
-* FaskRiskTutorial.ipynb – walkthrough for building risk models.
-* README.md – project overview.
+* **ml_dataset/** – example datasets for model training and testing.
+* **FaskRiskTutorial.ipynb** – walkthrough for building risk models.
+* **README.md** – project overview.
 
 ## License
 This project is released under the MIT License.
 
+
+## References
+
+1. **National Lungs Screening Trials**: [https://cdas.cancer.gov/learn/nlst/main-findings/](https://cdas.cancer.gov/learn/nlst/main-findings/)
+2. **FaskRisk**: [https://github.com/interpretml/FasterRisk](https://github.com/interpretml/FasterRisk)
