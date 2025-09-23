@@ -18,7 +18,7 @@ cd CancerRisk
 
 ## Folder Structure
 * **ml_dataset/** – example datasets for model training and testing.
-* **FaskRiskTutorial.ipynb** – walkthrough for building risk models.
+* **FasterRiskTutorial.ipynb** – walkthrough for building risk models.
 * **README.md** – project overview.
 
 ## License
